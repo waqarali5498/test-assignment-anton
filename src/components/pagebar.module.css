@@ -1,0 +1,30 @@
+.pagebar {
+  background-color: #ffffff;
+  min-width: 356px;
+  min-height: 42px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.title {
+  color: #1f2128;
+  font-size: 14px;
+}
+.checkbox {
+  width: 25px;
+  height: 25px;
+  border: none;
+  color: red;
+  background-color: red;
+}
+
+.checkbox:active {
+  background-color: #ffffff;
+}
+
+.checkbox:hover {
+  background-color: #2469f6;
+  border: 3px #cdcdcd;
+  border-color: #cdcdcd;
+}

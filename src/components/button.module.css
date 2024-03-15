@@ -1,0 +1,12 @@
+.btn {
+  width: 340px;
+  min-height: 30px;
+  border-radius: 4px;
+  background-color: #ffce22;
+  border: none;
+  box-sizing: border-box;
+}
+
+.btn :active {
+  background-color: #ffd84d;
+}
