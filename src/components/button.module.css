@@ -5,6 +5,7 @@
   background-color: #ffce22;
   border: none;
   box-sizing: border-box;
+  font-size: 14px;
 }
 
 .btn :active {
