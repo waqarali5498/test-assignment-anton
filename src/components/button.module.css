@@ -8,6 +8,6 @@
   font-size: 14px;
 }
 
-.btn :active {
+.btn:active {
   background-color: #ffd84d;
 }

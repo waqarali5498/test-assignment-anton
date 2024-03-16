@@ -1,34 +1,68 @@
 # Test Assignment Anton
 
+<<<<<<< HEAD
+
 ## Getting Started
 
-To run the project locally, follow these steps:
+=======
+
+## Getting Started
+
+> > > > > > > 07ab3b9c910de0478a2b4ebfe17fa6b68348bb37
+> > > > > > > To run the project locally, follow these steps:
 
 1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/waqarali5498/test-assignment-anton.git
-   ```
+<<<<<<< HEAD
 
-2. Navigate to the project directory:
+```bash
+git clone https://github.com/waqarali5498/test-assignment-anton.git
+```
 
-   ```bash
-   cd project-directory
-   ```
+2.  Navigate to the project directory:
 
-3. Install dependencies:
+    ```bash
+    cd project-directory
+    ```
 
-   ```bash
-   npm install
-   ```
+3.  Install dependencies:
 
-4. Run the development server:
+    ```bash
+    npm install
+    ```
 
-   ```bash
-   npm run dev
-   ```
+4.  Run the development server:
 
-5. Open your browser and go to [localhost:5173](http://localhost:5173) to view the application.
+    ```bash
+    npm run dev
+    ```
+
+    =======
+    `bash
+git clone <repository_url>
+`
+
+5.  Navigate to the project directory:
+
+    ```bash
+    cd project-directory
+    ```
+
+6.  Install dependencies:
+
+    ```bash
+    npm install
+    ```
+
+7.  Run the development server:
+
+        ```bash
+        npm run dev
+        ```
+
+    > > > > > > > 07ab3b9c910de0478a2b4ebfe17fa6b68348bb37
+
+8.  Open your browser and go to [localhost:5173](http://localhost:5173) to view the application.
 
 ## Plugins
 
